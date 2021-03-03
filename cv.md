@@ -1,5 +1,9 @@
-Daulet Barakov
-============
+# Daulet Barakov
+
+---
+
+![my gorgeous avatar :)](https://sun9-18.userapi.com/impg/YdqkX2iYvHVmTcjA06C7lgdMUOix4wiDFzJXVA/HtzXKOpDL9A.jpg?size=1200x675&quality=96&sign=6f91ea01208be3359017dce3cf522c3b&type=album)
+
 
 
 -----------------------------------------------
@@ -76,8 +80,11 @@ Individual Intrepreneur, looking for new chalenges for self-realization,
 I was intrested in software developing since school
 My goal is to become professional in front-end developing
 
-**Strong sides**: 
-* responsibility
-* stress tolerance
-* good communication skills
-* great learnability
+
+
+**Strong sides**  | 
+------------- | 
+responsibility  | 
+stress tolerance  | 
+good communication skills  |
+great learnability  |
