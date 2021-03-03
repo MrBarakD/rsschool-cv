@@ -44,6 +44,32 @@ Traffic control software developer
 Developing of statistical model of traffic regulation and debugging its algorithms
 
 
+### Code example
+
+``` 
+    <div class="mainDetails">
+		<div id="avatar" class="quickFade">
+			<img src="./assets/ava.png" alt="Alan Smith" />
+		</div>
+		
+		<div id="name">
+			<h1 class="quickFade delayTwo">Daulet Barakov</h1>
+			<h2 class="quickFade delayThree">Jr. Front-End dev.</h2>
+		</div>
+		
+		<div id="contactDetails" class="quickFade delayFour">
+			<ul>
+				<li>e-mail: <a href="mailto:daulet.bakeuly@gmail.com" target="_blank">daulet.bakeuly@gmail.com</a></li>
+				<li>social: <a href="http://www.vk.com/dake_bakeuly91" target="_blank">www.vk.com/dake_bakeuly91</a></li>
+				<li>tel: +7-727-248-6784</li>
+				<li>date of birth: 19.05.1991</li>
+				<li>location: Almaty, Kazakhstan</li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+```
+
 ## About me
 
 Individual Intrepreneur, looking for new chalenges for self-realization, 
