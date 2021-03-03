@@ -4,10 +4,11 @@ Daulet Barakov
 
 -----------------------------------------------
 
-Almaty city                             
-Kazakhstan
-Date of Birth: *15.05.1991*
-email: daulet.bakeuly@gmail.com
+Almaty city                               
+Kazakhstan  
+Date of Birth: *15.05.1991*  
+email: [daulet.bakeuly@gmail.com](daulet.bakeuly@gmail.com)  
+social networks: [Daulet Barakov](https://vk.com/dake_bakeuly91 "VK") 
 business number: *+7-727-248-6784*
 
 ----------------------------------------------
